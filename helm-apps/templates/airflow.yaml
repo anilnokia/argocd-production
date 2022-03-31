@@ -8,6 +8,7 @@ metadata:
 spec:
   project: production
   source:
+    path: helm
     repoURL: https://github.com/anilnokia/airflow.git
     targetRevision: HEAD
   destination:
